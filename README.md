@@ -1,14 +1,11 @@
-# ShadowXTP
- 
-
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Keeth! 👋
 
 ## About Me
-I'm a 3rd Year Bachelor of Computer Science student deeply passionate about game development, with a keen interest in Minecraft. My journey in computer science has led me to explore both hardware and software, and I'm always on the lookout to learn more and innovate.
+I'm a 3rd Year Bachelor of Computer Science student deeply passionate about game development, with a keen interest in Minecraft. My experience and passion for games has lead to me to learn alot about Computers and how they work, along with helping define the future I want for myself, and I'm always on the lookout to learn more and innovate.
 
 ## What I'm Working On
-- **Minecraft Plugins/Addons:** I'm actively developing new plugins and addons to enhance the Minecraft experience. If you're also into modding Minecraft, let's connect!
-- **Game Development:** Using C++ and C#, I'm working on building games that are not only fun to play but also push the boundaries of what indie developers can achieve.
+- **Minecraft Plugins/Addons:** I'm actively developing new plugins and addons to help me learn Java and improve my skills through Minecraft!
+- **Game Development:** Using C++ and C#, I'm working on learning and adapting my skills to eventually create Games and other passion projects!
 - **Web Development:** I'm also honing my skills in HTML, CSS, and JavaScript, building responsive and functional websites.
 
 ## Languages and Tools:
@@ -19,6 +16,6 @@ I'm a 3rd Year Bachelor of Computer Science student deeply passionate about game
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Connect With Me:
-- **GitHub:** [@your-github-username](https://github.com/your-github-username)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **GitHub:** [@ShadowXTP](https://github.com/ShadowXTP)
+- **LinkedIn:** [Keeth Christy Alphones](https://www.linkedin.com/in/keeth-christy-alphones-547a22268/)
+- **Email:** [keeth.chralp@gmail.com](mailto:keeth.chralp@gmail.com)
