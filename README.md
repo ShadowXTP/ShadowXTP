@@ -1,7 +1,7 @@
 # Hello, I'm Keeth! 👋
 
 ## About Me
-I'm a 3rd Year Bachelor of Computer Science student deeply passionate about game development, with a keen interest in Minecraft. My experience and passion for games has lead to me to learn alot about Computers and how they work, along with helping define the future I want for myself, and I'm always on the lookout to learn more and innovate.
+I'm a 3rd Year Bachelor of Computer Science student passionate about game development, My  experience as a student has helped me improve towards the future I want for myself, and I'm always on the lookout to learn more and innovate.
 
 ## What I'm Working On
 - **Minecraft Plugins/Addons:** I'm actively developing new plugins and addons to help me learn Java and improve my skills through Minecraft!
